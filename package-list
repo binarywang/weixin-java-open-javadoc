@@ -2,6 +2,7 @@ me.chanjar.weixin.open.api
 me.chanjar.weixin.open.api.impl
 me.chanjar.weixin.open.bean
 me.chanjar.weixin.open.bean.auth
+me.chanjar.weixin.open.bean.fastma
 me.chanjar.weixin.open.bean.ma
 me.chanjar.weixin.open.bean.message
 me.chanjar.weixin.open.bean.result
