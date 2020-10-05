@@ -5,7 +5,7 @@ me.chanjar.weixin.open.bean.auth
 me.chanjar.weixin.open.bean.ma
 me.chanjar.weixin.open.bean.message
 me.chanjar.weixin.open.bean.result
+me.chanjar.weixin.open.executor
 me.chanjar.weixin.open.util
 me.chanjar.weixin.open.util.json
-me.chanjar.weixin.open.util.requestexecuter.ma
 me.chanjar.weixin.open.util.xml
