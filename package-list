@@ -4,6 +4,7 @@ me.chanjar.weixin.open.bean
 me.chanjar.weixin.open.bean.auth
 me.chanjar.weixin.open.bean.ma
 me.chanjar.weixin.open.bean.message
+me.chanjar.weixin.open.bean.mp
 me.chanjar.weixin.open.bean.result
 me.chanjar.weixin.open.executor
 me.chanjar.weixin.open.util
