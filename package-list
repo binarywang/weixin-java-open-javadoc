@@ -4,6 +4,11 @@ me.chanjar.weixin.open.bean
 me.chanjar.weixin.open.bean.auth
 me.chanjar.weixin.open.bean.ma
 me.chanjar.weixin.open.bean.message
+me.chanjar.weixin.open.bean.minishop
+me.chanjar.weixin.open.bean.minishop.coupon
+me.chanjar.weixin.open.bean.minishop.goods
+me.chanjar.weixin.open.bean.minishop.limitdiscount
+me.chanjar.weixin.open.bean.minishopGoods
 me.chanjar.weixin.open.bean.mp
 me.chanjar.weixin.open.bean.result
 me.chanjar.weixin.open.executor
