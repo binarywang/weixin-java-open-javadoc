@@ -12,6 +12,8 @@ me.chanjar.weixin.open.bean.minishop.limitdiscount
 me.chanjar.weixin.open.bean.minishopGoods
 me.chanjar.weixin.open.bean.mp
 me.chanjar.weixin.open.bean.result
+me.chanjar.weixin.open.bean.tcb
+me.chanjar.weixin.open.bean.tcbComponent
 me.chanjar.weixin.open.executor
 me.chanjar.weixin.open.util
 me.chanjar.weixin.open.util.json
