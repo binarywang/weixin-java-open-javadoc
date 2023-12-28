@@ -9,9 +9,10 @@ me.chanjar.weixin.open.bean.minishop
 me.chanjar.weixin.open.bean.minishop.coupon
 me.chanjar.weixin.open.bean.minishop.goods
 me.chanjar.weixin.open.bean.minishop.limitdiscount
-me.chanjar.weixin.open.bean.minishopGoods
+me.chanjar.weixin.open.bean.minishopgoods
 me.chanjar.weixin.open.bean.mp
 me.chanjar.weixin.open.bean.result
+me.chanjar.weixin.open.bean.shoppingOrders
 me.chanjar.weixin.open.bean.tcb
 me.chanjar.weixin.open.bean.tcbComponent
 me.chanjar.weixin.open.executor
